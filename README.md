@@ -64,11 +64,17 @@ Pastikan layout website kamu tampil dengan baik di:
 
 ---
 
-## 💾 Cara Menjalankan
+## ✅ Kriteria Penilaian
 
-1. Clone repository ini
-2. Buka file `index.html` di browser
-3. (Opsional) Upload ke GitHub Pages untuk live preview
+| Kriteria                        | Bobot | Keterangan |
+|---------------------------------|--------|------------|
+| Struktur HTML semantik         | 20%    | Penggunaan elemen HTML5 yang tepat |
+| Styling dengan Tailwind CSS    | 20%    | Konsistensi, kerapian, dan kreativitas desain |
+| Layout responsif               | 30%    | Tampilan adaptif di berbagai ukuran layar |
+| Kelengkapan konten             | 20%    | Semua section wajib ada dan berfungsi |
+| Kerapian kode & struktur file  | 10%    | Penamaan class, indentasi, dan struktur folder |
+
+**Nilai total: 100%**
 
 ---
 
@@ -77,7 +83,6 @@ Pastikan layout website kamu tampil dengan baik di:
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 - [Heroicons (icon gratis)](https://heroicons.com/)
 - [Placehold.co (gambar dummy)](https://placehold.co/)
-- [GitHub Pages Guide](https://pages.github.com/)
 
 ---
 
@@ -85,4 +90,3 @@ Pastikan layout website kamu tampil dengan baik di:
 
 Gunakan kreativitasmu, tetap sederhana, dan fokus pada **struktur dan tampilan responsif**.  
 Portofolio ini juga bisa kamu gunakan sebagai bagian dari karier ke depannya!
-
